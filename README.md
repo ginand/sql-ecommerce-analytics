@@ -24,28 +24,7 @@ This project simulates a realistic e-commerce database and performs:
 # 📂 Project Structure
 
 
-sql-ecommerce-analytics/
-│
-├── sql/
-│ └── 00_schema.sql
-│
-├── scripts/
-│ ├── generate_data.py
-│ └── load_postgres.py
-│
-├── queries/
-│ ├── 01_create_views.sql
-│ ├── 02_kpi_monthly.sql
-│ ├── 03_channel_performance.sql
-│ ├── 04_category_profit.sql
-│ ├── 05_top_products.sql
-│ ├── 06_returns_analysis.sql
-│ ├── 07_rfm_segmentation.sql
-│ ├── 08_cohort_retention.sql
-│ └── 09_data_quality_checks.sql
-│
-└── insights/
-└── insights.md
+<img width="335" height="554" alt="image" src="https://github.com/user-attachments/assets/8342b5df-e1e6-4b7c-a820-c37f05d60028" />
 
 
 ---
